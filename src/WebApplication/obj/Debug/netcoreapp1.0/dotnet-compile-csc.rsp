@@ -199,7 +199,6 @@
 -r:"C:\Users\Ahmed\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
 -r:"C:\Users\Ahmed\.nuget\packages\System.Xml.XmlDocument\4.0.1\ref\netstandard1.3\System.Xml.XmlDocument.dll"
 -resource:"D:\PIDEV\azret\src\WebApplication\obj\Debug\netcoreapp1.0\WebApplicationdotnet-compile.deps.json",WebApplication.deps.json
-"D:\PIDEV\azret\src\WebApplication\Program.cs"
 "D:\PIDEV\azret\src\WebApplication\Startup.cs"
 "D:\PIDEV\azret\src\WebApplication\Controllers\BlogsController.cs"
 "D:\PIDEV\azret\src\WebApplication\Controllers\HomeController.cs"

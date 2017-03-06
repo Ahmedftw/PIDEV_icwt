@@ -11,7 +11,7 @@ namespace WebApplication.Models
         {
         }
 
-        public int BlogId { get; set; }
+        public int BlogsId { get; set; }
 
         public string Url { get; set; }
     }

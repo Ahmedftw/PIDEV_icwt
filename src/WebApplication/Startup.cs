@@ -33,8 +33,8 @@ public class Startup
         var host = new WebHostBuilder()
                        .UseKestrel()
                        .UseConfiguration(config)
-                       //.UseStartup()
-                       .Build();
+.UseStartup<Startup>()
+.Build();
         host.Run();
     }
 }
