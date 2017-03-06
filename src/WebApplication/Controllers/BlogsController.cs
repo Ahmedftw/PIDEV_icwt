@@ -19,7 +19,7 @@ namespace WebApplication.Controllers
 
         public IActionResult Index()
         {
-            return View(_context.Blog.ToList());
+            return View("index");
         }
 
 
